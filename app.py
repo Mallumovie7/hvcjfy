@@ -1,5 +1,5 @@
-#Thank you LazyDeveloper for helping me in this journey !
-#Must Subscribe On YouTube @LazyDeveloperr 
+
+
 
 from flask import Flask
 app = Flask(__name__)
